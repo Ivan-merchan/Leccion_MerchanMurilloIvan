@@ -1,0 +1,12 @@
+.container-fluid{
+    height: 81.8vh;
+}
+
+table {
+    width: 100%;
+}
+  
+td, th {
+    width: 10%;
+    font-size: .8rem;
+}
